@@ -1,0 +1,15 @@
+/home/charles/Downloads/Blockwoche/App/bin/Release/net8.0/DotNet.Docker
+/home/charles/Downloads/Blockwoche/App/bin/Release/net8.0/DotNet.Docker.deps.json
+/home/charles/Downloads/Blockwoche/App/bin/Release/net8.0/DotNet.Docker.runtimeconfig.json
+/home/charles/Downloads/Blockwoche/App/bin/Release/net8.0/DotNet.Docker.dll
+/home/charles/Downloads/Blockwoche/App/bin/Release/net8.0/DotNet.Docker.pdb
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfo.cs
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.sourcelink.json
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.dll
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/refint/DotNet.Docker.dll
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.pdb
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/DotNet.Docker.genruntimeconfig.cache
+/home/charles/Downloads/Blockwoche/App/obj/Release/net8.0/ref/DotNet.Docker.dll
